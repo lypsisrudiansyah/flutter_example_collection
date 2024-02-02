@@ -16,3 +16,7 @@ void main() {
   print("$a $b $c $d");
 }
 ```
+
+
+
+`<img src="dart_list_destructuring_result.png" alt="alt text" height="400">`
