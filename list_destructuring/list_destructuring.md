@@ -17,6 +17,6 @@ void main() {
 }
 ```
 
+### Preview / Result
 
-
-`<img src="dart_list_destructuring_result.png" alt="alt text" height="400">`
+<img src="dart_list_destructuring_result.png" alt="alt text" height="400">
