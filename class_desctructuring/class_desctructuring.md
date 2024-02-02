@@ -5,9 +5,12 @@ void main() {
   final Person(
     :age,
     :name,
+    :isRich,
   ) = Person(
     name: 'John', age: 30, isRich: true,
   );
+  
+  print("$name - $age - $isRich");
 }
 
 class Person {
