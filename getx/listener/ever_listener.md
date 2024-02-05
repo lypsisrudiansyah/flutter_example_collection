@@ -63,6 +63,6 @@ I/flutter ( 3501): This is execution number 5
 
 Answer :
 
-Because someone in a forum ask there, `How to write listener Refer to BlocListener on flutter_bloc, but how to make it on GetX ?`
+Because someone in a forum ask there, `How to write listeners on GetX like BlocListener on flutter_bloc ?`, specifically he want to make redirection after login if passed the reququirements
 
 So one of the solution is like this using ever as the listener because there is more utils on GetX can be used as listener.
